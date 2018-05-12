@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34183
 description: Finnagle's Law shows that many times we don't get the effect we planned
   on. But ... there's an inverse to that famous law, too ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30242#Prologue-to-an-Analogue
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
