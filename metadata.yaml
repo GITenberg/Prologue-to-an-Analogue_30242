@@ -1,0 +1,42 @@
+_repo: Prologue-to-an-Analogue_30242
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richmond, Leigh
+    alias: Richmond, Leigh Tucker
+    birthdate: 1911
+    deathdate: 1995
+    gutenberg_agent_id: '34183'
+    url: http://www.gutenberg.org/2009/agents/34183
+description: Finnagle's Law shows that many times we don't get the effect we planned
+  on. But ... there's an inverse to that famous law, too ...
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2009-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Prologue to an Analogue
+url: http://www.gutenberg.org/ebooks/30242
